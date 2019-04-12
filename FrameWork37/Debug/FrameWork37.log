@@ -1,0 +1,17 @@
+﻿CBullet_Enemy.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+StageBack.obj : error LNK2019: __CrtDbgReport 외부 기호(참조 위치: "void __cdecl std::_Deallocate<8,0>(void *,unsigned int)" (??$_Deallocate@$07$0A@@std@@YAXPAXI@Z) 함수)에서 확인하지 못했습니다.
+Player.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+Monster.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+MyMenu.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+Stage.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+BackGround.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+MyButton.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+CMonster_Boss.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+ObjMgr.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+Device.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+StateObj.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+CBullet_Enemy.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+CBullet_Enemy2.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+CBullet_Player.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+CEffect.obj : error LNK2001: __CrtDbgReport 외부 기호를 확인할 수 없습니다.
+C:\Users\LeeDoKyung\Desktop\작업\FrameWorkCustom\Debug\FrameWork37.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
